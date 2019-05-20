@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Side from './Order'
 
 class Order extends Component {
   state = {
